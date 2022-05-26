@@ -1,0 +1,14 @@
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Test\bin\Debug\CopyDirectory.Test.dll
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Test\bin\Debug\CopyDirectory.Test.pdb
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Test\obj\Debug\CopyDirectory.Test.csprojAssemblyReference.cache
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Test\obj\Debug\CopyDirectory.Test.csproj.CoreCompileInputs.cache
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Test\obj\Debug\CopyDirectory.Test.csproj.CopyComplete
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Test\obj\Debug\CopyDirectory.Test.dll
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Test\obj\Debug\CopyDirectory.Test.pdb

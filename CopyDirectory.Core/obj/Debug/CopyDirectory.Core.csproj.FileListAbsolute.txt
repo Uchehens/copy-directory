@@ -1,0 +1,5 @@
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Core\bin\Debug\CopyDirectory.Core.dll
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Core\bin\Debug\CopyDirectory.Core.pdb
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Core\obj\Debug\CopyDirectory.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Core\obj\Debug\CopyDirectory.Core.dll
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Core\obj\Debug\CopyDirectory.Core.pdb

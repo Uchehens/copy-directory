@@ -1,0 +1,9 @@
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Infrastructure\bin\Debug\CopyDirectory.Infrastructure.dll
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Infrastructure\bin\Debug\CopyDirectory.Infrastructure.pdb
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Infrastructure\bin\Debug\CopyDirectory.Core.dll
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Infrastructure\bin\Debug\CopyDirectory.Core.pdb
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Infrastructure\obj\Debug\CopyDirectory.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Infrastructure\obj\Debug\CopyDirectory.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Infrastructure\obj\Debug\CopyDirectory.Infrastructure.csproj.CopyComplete
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Infrastructure\obj\Debug\CopyDirectory.Infrastructure.dll
+C:\Users\Lisa\source\repos\CopyDirectory\CopyDirectory.Infrastructure\obj\Debug\CopyDirectory.Infrastructure.pdb
